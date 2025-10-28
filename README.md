@@ -1,1 +1,1 @@
-# WACC-Model
+# Weighted Average Cost of Capital Model
